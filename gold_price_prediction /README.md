@@ -1,4 +1,4 @@
-# 🪙 Gold Price Prediction using Machine Learning
+#  Gold Price Prediction using Machine Learning
 
 ## 📌 About This Project
 
@@ -6,7 +6,7 @@ This project is an attempt to understand how different financial factors affect 
 
 I used historical data containing stock market index (SPX), oil prices (USO), silver prices (SLV), and currency exchange rate (EUR/USD) to predict the gold price (GLD).
 
----
+
 
 ## 📊 Dataset
 
@@ -31,7 +31,7 @@ The dataset includes:
 * Evaluated the model performance
 * Visualized predictions vs actual values
 
----
+
 
 ## 🤖 Model Used
 
@@ -39,7 +39,7 @@ I used a **Random Forest Regressor** because it performs well on structured data
 
 ---
 
-## 📈 Results
+# 📈 Results
 
 The model gives a good prediction performance with an R² score of:
 
